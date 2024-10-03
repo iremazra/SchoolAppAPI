@@ -1,0 +1,6 @@
+@ApiOdev_HostAddress = http://localhost:5286
+
+GET {{ApiOdev_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

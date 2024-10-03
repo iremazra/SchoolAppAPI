@@ -1,0 +1,765 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\ApiOdev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E66CD672-3E7F-44A7-93A5-2AEF7C126F9F}|ApiOdev.csproj|c:\\users\\lenovo\\desktop\\apiodev\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E66CD672-3E7F-44A7-93A5-2AEF7C126F9F}|ApiOdev.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66CD672-3E7F-44A7-93A5-2AEF7C126F9F}|ApiOdev.csproj|c:\\users\\lenovo\\desktop\\apiodev\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66CD672-3E7F-44A7-93A5-2AEF7C126F9F}|ApiOdev.csproj|solutionrelative:controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE74663-F110-4FBF-A7E2-2A73FF6CDC24}|..\\ApiOdev.Business\\ApiOdev.Business.csproj|c:\\users\\lenovo\\desktop\\apiodev.business\\services\\managerservices\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA54925-1C2B-44BF-9383-4A5C443AB225}|..\\ApiOdev.DataAccess\\ApiOdev.DataAccess.csproj|c:\\users\\lenovo\\desktop\\apiodev.dataaccess\\concrete\\managerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA54925-1C2B-44BF-9383-4A5C443AB225}|..\\ApiOdev.DataAccess\\ApiOdev.DataAccess.csproj|c:\\users\\lenovo\\desktop\\apiodev.dataaccess\\dataaccess.abstract\\imanagerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE74663-F110-4FBF-A7E2-2A73FF6CDC24}|..\\ApiOdev.Business\\ApiOdev.Business.csproj|c:\\users\\lenovo\\desktop\\apiodev.business\\services\\managerservices\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE74663-F110-4FBF-A7E2-2A73FF6CDC24}|..\\ApiOdev.Business\\ApiOdev.Business.csproj|c:\\users\\lenovo\\desktop\\apiodev.business\\vms\\managerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA54925-1C2B-44BF-9383-4A5C443AB225}|..\\ApiOdev.DataAccess\\ApiOdev.DataAccess.csproj|c:\\users\\lenovo\\desktop\\apiodev.dataaccess\\dataaccess.abstract\\ibaserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA54925-1C2B-44BF-9383-4A5C443AB225}|..\\ApiOdev.DataAccess\\ApiOdev.DataAccess.csproj|c:\\users\\lenovo\\desktop\\apiodev.dataaccess\\concrete\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE74663-F110-4FBF-A7E2-2A73FF6CDC24}|..\\ApiOdev.Business\\ApiOdev.Business.csproj|c:\\users\\lenovo\\desktop\\apiodev.business\\vms\\managerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE74663-F110-4FBF-A7E2-2A73FF6CDC24}|..\\ApiOdev.Business\\ApiOdev.Business.csproj|c:\\users\\lenovo\\desktop\\apiodev.business\\automapper\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE74663-F110-4FBF-A7E2-2A73FF6CDC24}|..\\ApiOdev.Business\\ApiOdev.Business.csproj|c:\\users\\lenovo\\desktop\\apiodev.business\\models\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE74663-F110-4FBF-A7E2-2A73FF6CDC24}|..\\ApiOdev.Business\\ApiOdev.Business.csproj|c:\\users\\lenovo\\desktop\\apiodev.business\\vms\\listofmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA54925-1C2B-44BF-9383-4A5C443AB225}|..\\ApiOdev.DataAccess\\ApiOdev.DataAccess.csproj|c:\\users\\lenovo\\desktop\\apiodev.dataaccess\\migrations\\20240904202425_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Migrations\\20240904201914_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0972E3-8D69-415E-A5D9-029B4E7AF903}|..\\ApiOdev.Entities\\ApiOdev.Entities.csproj|c:\\users\\lenovo\\desktop\\apiodev.entities\\concrete\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA54925-1C2B-44BF-9383-4A5C443AB225}|..\\ApiOdev.DataAccess\\ApiOdev.DataAccess.csproj|c:\\users\\lenovo\\desktop\\apiodev.dataaccess\\entityframework\\entitymapping\\managermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA54925-1C2B-44BF-9383-4A5C443AB225}|..\\ApiOdev.DataAccess\\ApiOdev.DataAccess.csproj|c:\\users\\lenovo\\desktop\\apiodev.dataaccess\\entityframework\\entitymapping\\baseentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66CD672-3E7F-44A7-93A5-2AEF7C126F9F}|ApiOdev.csproj|c:\\users\\lenovo\\desktop\\apiodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66CD672-3E7F-44A7-93A5-2AEF7C126F9F}|ApiOdev.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Migrations\\20240904195115_Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA54925-1C2B-44BF-9383-4A5C443AB225}|..\\ApiOdev.DataAccess\\ApiOdev.DataAccess.csproj|c:\\users\\lenovo\\desktop\\apiodev.dataaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA54925-1C2B-44BF-9383-4A5C443AB225}|..\\ApiOdev.DataAccess\\ApiOdev.DataAccess.csproj|c:\\users\\lenovo\\desktop\\apiodev.dataaccess\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE74663-F110-4FBF-A7E2-2A73FF6CDC24}|..\\ApiOdev.Business\\ApiOdev.Business.csproj|c:\\users\\lenovo\\desktop\\apiodev.business\\apiodev.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66CD672-3E7F-44A7-93A5-2AEF7C126F9F}|ApiOdev.csproj|c:\\users\\lenovo\\desktop\\apiodev\\apiodev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E66CD672-3E7F-44A7-93A5-2AEF7C126F9F}|ApiOdev.csproj|solutionrelative:apiodev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE74663-F110-4FBF-A7E2-2A73FF6CDC24}|..\\ApiOdev.Business\\ApiOdev.Business.csproj|c:\\users\\lenovo\\desktop\\apiodev.business\\ioc\\dependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE74663-F110-4FBF-A7E2-2A73FF6CDC24}|..\\ApiOdev.Business\\ApiOdev.Business.csproj|c:\\users\\lenovo\\desktop\\apiodev.business\\models\\addmanagerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692DF3CE-306A-4769-A410-00E689E5794D}|..\\ApiOdev.Core\\ApiOdev.Core.csproj|c:\\users\\lenovo\\desktop\\apiodev.core\\entities.abstract\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0972E3-8D69-415E-A5D9-029B4E7AF903}|..\\ApiOdev.Entities\\ApiOdev.Entities.csproj|c:\\users\\lenovo\\desktop\\apiodev.entities\\abstract\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0972E3-8D69-415E-A5D9-029B4E7AF903}|..\\ApiOdev.Entities\\ApiOdev.Entities.csproj|c:\\users\\lenovo\\desktop\\apiodev.entities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692DF3CE-306A-4769-A410-00E689E5794D}|..\\ApiOdev.Core\\ApiOdev.Core.csproj|c:\\users\\lenovo\\desktop\\apiodev.core\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692DF3CE-306A-4769-A410-00E689E5794D}|..\\ApiOdev.Core\\ApiOdev.Core.csproj|c:\\users\\lenovo\\desktop\\apiodev.core\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692DF3CE-306A-4769-A410-00E689E5794D}|..\\ApiOdev.Core\\ApiOdev.Core.csproj|c:\\users\\lenovo\\desktop\\apiodev.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\APICore\\ApiOdev.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE74663-F110-4FBF-A7E2-2A73FF6CDC24}|..\\ApiOdev.Business\\ApiOdev.Business.csproj|c:\\users\\lenovo\\desktop\\apiodev.business\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Concrete\\BaseRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Concrete\\ManagerRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Abstract\\IBaseRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\APICore\\Enums\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Abstract\\IManagerRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\API.Entities\\Concrete\\Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\API.Entities\\Abstract\\IUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\EntityFramework\\EntityMapping\\ManagerMapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\API.Entities\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\EntityFramework\\EntityMapping\\BaseEntityTypeConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\EntityFramework\\APIDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\APICore\\Enums\\Status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\APICore\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\ApiOdev.DataAccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "Controllers\\ManagerController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:43:09.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\Services\\ManagerServices\\ManagerService.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Business\\Services\\ManagerServices\\ManagerService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\Services\\ManagerServices\\ManagerService.cs",
+              "RelativeToolTip": "..\\ApiOdev.Business\\Services\\ManagerServices\\ManagerService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAvwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:25:44.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Concrete\\ManagerRepo.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.DataAccess\\Concrete\\ManagerRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Concrete\\ManagerRepo.cs",
+              "RelativeToolTip": "..\\ApiOdev.DataAccess\\Concrete\\ManagerRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:36:16.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\DataAccess.Abstract\\IBaseRepo.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.DataAccess\\DataAccess.Abstract\\IBaseRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\DataAccess.Abstract\\IBaseRepo.cs",
+              "RelativeToolTip": "..\\ApiOdev.DataAccess\\DataAccess.Abstract\\IBaseRepo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:51:43.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IManagerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\DataAccess.Abstract\\IManagerRepo.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.DataAccess\\DataAccess.Abstract\\IManagerRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\DataAccess.Abstract\\IManagerRepo.cs",
+              "RelativeToolTip": "..\\ApiOdev.DataAccess\\DataAccess.Abstract\\IManagerRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:54:00.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Concrete\\BaseRepo.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.DataAccess\\Concrete\\BaseRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Concrete\\BaseRepo.cs",
+              "RelativeToolTip": "..\\ApiOdev.DataAccess\\Concrete\\BaseRepo.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwCwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:01:59.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\Services\\ManagerServices\\IManagerService.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Business\\Services\\ManagerServices\\IManagerService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\Services\\ManagerServices\\IManagerService.cs",
+              "RelativeToolTip": "..\\ApiOdev.Business\\Services\\ManagerServices\\IManagerService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:24:36.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T19:33:50.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\VMs\\ManagerViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Business\\VMs\\ManagerViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\VMs\\ManagerViewModel.cs",
+              "RelativeToolTip": "..\\ApiOdev.Business\\VMs\\ManagerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:59:42.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManagerDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\VMs\\ManagerDetails.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Business\\VMs\\ManagerDetails.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\VMs\\ManagerDetails.cs",
+              "RelativeToolTip": "..\\ApiOdev.Business\\VMs\\ManagerDetails.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:23:21.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\AutoMapper\\Mapping.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Business\\AutoMapper\\Mapping.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\AutoMapper\\Mapping.cs",
+              "RelativeToolTip": "..\\ApiOdev.Business\\AutoMapper\\Mapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:28:15.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\Models\\ManagerDTO.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Business\\Models\\ManagerDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\Models\\ManagerDTO.cs",
+              "RelativeToolTip": "..\\ApiOdev.Business\\Models\\ManagerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:24:34.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListOfManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\VMs\\ListOfManager.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Business\\VMs\\ListOfManager.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\VMs\\ListOfManager.cs",
+              "RelativeToolTip": "..\\ApiOdev.Business\\VMs\\ListOfManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:26:02.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240904202425_mig2.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Migrations\\20240904202425_mig2.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.DataAccess\\Migrations\\20240904202425_mig2.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Migrations\\20240904202425_mig2.cs",
+              "RelativeToolTip": "..\\ApiOdev.DataAccess\\Migrations\\20240904202425_mig2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:24:25.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManagerMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\EntityFramework\\EntityMapping\\ManagerMapping.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.DataAccess\\EntityFramework\\EntityMapping\\ManagerMapping.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\EntityFramework\\EntityMapping\\ManagerMapping.cs",
+              "RelativeToolTip": "..\\ApiOdev.DataAccess\\EntityFramework\\EntityMapping\\ManagerMapping.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:15:59.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\EntityFramework\\EntityMapping\\BaseEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.DataAccess\\EntityFramework\\EntityMapping\\BaseEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\EntityFramework\\EntityMapping\\BaseEntityTypeConfiguration.cs",
+              "RelativeToolTip": "..\\ApiOdev.DataAccess\\EntityFramework\\EntityMapping\\BaseEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAsAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:07:09.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:43:35.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240904195115_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Migrations\\20240904195115_Manager.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.DataAccess\\Migrations\\20240904195115_Manager.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Migrations\\20240904195115_Manager.cs",
+              "RelativeToolTip": "..\\ApiOdev.DataAccess\\Migrations\\20240904195115_Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:51:15.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240904201914_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Migrations\\20240904201914_mig1.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.DataAccess\\Migrations\\20240904201914_mig1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Migrations\\20240904201914_mig1.cs",
+              "RelativeToolTip": "..\\ApiOdev.DataAccess\\Migrations\\20240904201914_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:19:14.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Entities\\Concrete\\Manager.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Entities\\Concrete\\Manager.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Entities\\Concrete\\Manager.cs",
+              "RelativeToolTip": "..\\ApiOdev.Entities\\Concrete\\Manager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAywAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:58:15.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.DataAccess\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\ApiDbContext.cs",
+              "RelativeToolTip": "..\\ApiOdev.DataAccess\\ApiDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:03:07.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.DataAccess\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.DataAccess\\Program.cs",
+              "RelativeToolTip": "..\\ApiOdev.DataAccess\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:49:57.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApiOdev.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\ApiOdev.Business.csproj",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Business\\ApiOdev.Business.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\ApiOdev.Business.csproj",
+              "RelativeToolTip": "..\\ApiOdev.Business\\ApiOdev.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T19:52:08.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApiOdev.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev\\ApiOdev.csproj",
+              "RelativeDocumentMoniker": "ApiOdev.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev\\ApiOdev.csproj",
+              "RelativeToolTip": "ApiOdev.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T13:31:27.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DependencyResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\IoC\\DependencyResolver.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Business\\IoC\\DependencyResolver.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\IoC\\DependencyResolver.cs",
+              "RelativeToolTip": "..\\ApiOdev.Business\\IoC\\DependencyResolver.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAEBdwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:30:22.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddManagerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\Models\\AddManagerDTO.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Business\\Models\\AddManagerDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\Models\\AddManagerDTO.cs",
+              "RelativeToolTip": "..\\ApiOdev.Business\\Models\\AddManagerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:23:56.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Core\\Entities.Abstract\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Core\\Entities.Abstract\\IBaseEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Core\\Entities.Abstract\\IBaseEntity.cs",
+              "RelativeToolTip": "..\\ApiOdev.Core\\Entities.Abstract\\IBaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:05:21.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Entities\\Abstract\\IUser.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Entities\\Abstract\\IUser.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Entities\\Abstract\\IUser.cs",
+              "RelativeToolTip": "..\\ApiOdev.Entities\\Abstract\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:57:23.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Entities\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Entities\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Entities\\Program.cs",
+              "RelativeToolTip": "..\\ApiOdev.Entities\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:56:02.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Core\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Core\\Enums\\Role.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Core\\Enums\\Role.cs",
+              "RelativeToolTip": "..\\ApiOdev.Core\\Enums\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:06:37.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Core\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Core\\Enums\\Status.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Core\\Enums\\Status.cs",
+              "RelativeToolTip": "..\\ApiOdev.Core\\Enums\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:05:51.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Core\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Core\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Core\\Program.cs",
+              "RelativeToolTip": "..\\ApiOdev.Core\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:04:06.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ManagerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Concrete\\ManagerRepo.cs",
+              "RelativeDocumentMoniker": "..\\API.DataAccess\\Concrete\\ManagerRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Concrete\\ManagerRepo.cs",
+              "RelativeToolTip": "..\\API.DataAccess\\Concrete\\ManagerRepo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:33:34.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IBaseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Abstract\\IBaseRepo.cs",
+              "RelativeDocumentMoniker": "..\\API.DataAccess\\Abstract\\IBaseRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Abstract\\IBaseRepo.cs",
+              "RelativeToolTip": "..\\API.DataAccess\\Abstract\\IBaseRepo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:28:22.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\APICore\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "..\\APICore\\Enums\\Role.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\APICore\\Enums\\Role.cs",
+              "RelativeToolTip": "..\\APICore\\Enums\\Role.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:48:54.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApiOdev.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\APICore\\ApiOdev.Core.csproj",
+              "RelativeDocumentMoniker": "..\\APICore\\ApiOdev.Core.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\APICore\\ApiOdev.Core.csproj",
+              "RelativeToolTip": "..\\APICore\\ApiOdev.Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T20:12:25.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Concrete\\BaseRepo.cs",
+              "RelativeDocumentMoniker": "..\\API.DataAccess\\Concrete\\BaseRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Concrete\\BaseRepo.cs",
+              "RelativeToolTip": "..\\API.DataAccess\\Concrete\\BaseRepo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:15:09.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IManagerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Abstract\\IManagerRepo.cs",
+              "RelativeDocumentMoniker": "..\\API.DataAccess\\Abstract\\IManagerRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Abstract\\IManagerRepo.cs",
+              "RelativeToolTip": "..\\API.DataAccess\\Abstract\\IManagerRepo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:28:24.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ApiOdev.Business\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ApiOdev.Business\\Program.cs",
+              "RelativeToolTip": "..\\ApiOdev.Business\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:22:58.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\API.Entities\\Concrete\\Manager.cs",
+              "RelativeDocumentMoniker": "..\\API.Entities\\Concrete\\Manager.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\API.Entities\\Concrete\\Manager.cs",
+              "RelativeToolTip": "..\\API.Entities\\Concrete\\Manager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:16:32.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\API.Entities\\Abstract\\IUser.cs",
+              "RelativeDocumentMoniker": "..\\API.Entities\\Abstract\\IUser.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\API.Entities\\Abstract\\IUser.cs",
+              "RelativeToolTip": "..\\API.Entities\\Abstract\\IUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:08:11.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ManagerMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\EntityFramework\\EntityMapping\\ManagerMapping.cs",
+              "RelativeDocumentMoniker": "..\\API.DataAccess\\EntityFramework\\EntityMapping\\ManagerMapping.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\EntityFramework\\EntityMapping\\ManagerMapping.cs",
+              "RelativeToolTip": "..\\API.DataAccess\\EntityFramework\\EntityMapping\\ManagerMapping.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:38:53.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\API.Entities\\Program.cs",
+              "RelativeDocumentMoniker": "..\\API.Entities\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\API.Entities\\Program.cs",
+              "RelativeToolTip": "..\\API.Entities\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:50:26.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BaseEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\EntityFramework\\EntityMapping\\BaseEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\API.DataAccess\\EntityFramework\\EntityMapping\\BaseEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\EntityFramework\\EntityMapping\\BaseEntityTypeConfiguration.cs",
+              "RelativeToolTip": "..\\API.DataAccess\\EntityFramework\\EntityMapping\\BaseEntityTypeConfiguration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:33:32.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "APIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\EntityFramework\\APIDbContext.cs",
+              "RelativeDocumentMoniker": "..\\API.DataAccess\\EntityFramework\\APIDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\EntityFramework\\APIDbContext.cs",
+              "RelativeToolTip": "..\\API.DataAccess\\EntityFramework\\APIDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:31:13.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\APICore\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "..\\APICore\\Enums\\Status.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\APICore\\Enums\\Status.cs",
+              "RelativeToolTip": "..\\APICore\\Enums\\Status.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:48:58.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\APICore\\Program.cs",
+              "RelativeDocumentMoniker": "..\\APICore\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\APICore\\Program.cs",
+              "RelativeToolTip": "..\\APICore\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:35:16.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ApiOdev.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\ApiOdev.DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\API.DataAccess\\ApiOdev.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\ApiOdev.DataAccess.csproj",
+              "RelativeToolTip": "..\\API.DataAccess\\ApiOdev.DataAccess.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T18:27:45.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Program.cs",
+              "RelativeDocumentMoniker": "..\\API.DataAccess\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\API.DataAccess\\Program.cs",
+              "RelativeToolTip": "..\\API.DataAccess\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:27:36.896Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
